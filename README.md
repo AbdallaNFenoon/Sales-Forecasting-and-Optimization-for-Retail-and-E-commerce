@@ -1,5 +1,5 @@
-## Project Overview
 # Sales-Forecasting-and-Optimization-for-Retail-and-E-commerce
+## Project Overview
 The “Sales Forecasting and Optimization” project aims to leverage historical sales data to build a predictive model for retail and e-commerce businesses. The project will focus on forecasting future sales based on trends, seasonality, promotions, holidays, and other influential factors.
 
 One of the leading retail stores in the US, **Walmart**, would like to predict sales and demand accurately. There are certain events and holidays which impact sales on each day. Sales data are available for 45 Walmart stores.
