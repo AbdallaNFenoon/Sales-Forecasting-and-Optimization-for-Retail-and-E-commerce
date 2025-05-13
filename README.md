@@ -57,6 +57,13 @@ This dataset contains historical sales data from **2010-02-05 to 2012-11-01**. T
   - 27-Dec-13
 
 ---
+## Files:
+
+Sales_Forecasting.ipynb — Notebook code file
+
+app.py — Streamlit interface for the prediction
+
+requirements.txt — Dependencies
 
 ## Acknowledgements
 
